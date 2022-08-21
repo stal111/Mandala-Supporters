@@ -1,10 +1,9 @@
-#stal111
-{"id": "3fe5eb64fa31423e9900e39abc5db88f", "level": "Nebula Club"}
-#CesarZorak
-{"id": "3177f1f0d14d4f35b144cc5c6ac6379c", "level": "Nebula Club"}
-#theismarius
-{"id": "6cf462e9a2864731adb6a4293278deb6", "level": "Nebula Club"}
-#Khytwel
-{"id": "435be545e56241878cd5e148908c139b", "level": "Nebula Club"}
-#Vaelzan
-{"id": "961a036ba22d47ae9ea76a68ebfd4a6d", "level": "Nebula Club"}
+{
+  "supporters": [
+    {"name": "stal111", "id": "3fe5eb64fa31423e9900e39abc5db88f", "level": "Nebula Club"},
+    {"name": "CesarZorak", "id": "3177f1f0d14d4f35b144cc5c6ac6379c", "level": "Nebula Club"},
+    {"name": "theismarius", "id": "6cf462e9a2864731adb6a4293278deb6", "level": "Nebula Club"},
+    {"name": "Khytwel", "id": "435be545e56241878cd5e148908c139b", "level": "Nebula Club"},
+    {"name": "Vaelzan", "id": "961a036ba22d47ae9ea76a68ebfd4a6d", "level": "Nebula Club"}
+  ]
+}
