@@ -3,20 +3,10 @@
     "golden_fighter": [],
     "arcane_sorcerer": [],
     "nebula_club": [
-        {
-            "id": "3fe5eb64fa31423e9900e39abc5db88f"
-        },
-        {
-            "id": "3177f1f0d14d4f35b144cc5c6ac6379c"
-        },
-        {
-            "id": "6cf462e9a2864731adb6a4293278deb6"
-        },
-        {
-            "id": "435be545e56241878cd5e148908c139b"
-        },
-        {
-            "id": "961a036ba22d47ae9ea76a68ebfd4a6d"
-        }
+        "3177f1f0d14d4f35b144cc5c6ac6379c",
+        "6cf462e9a2864731adb6a4293278deb6",
+        "435be545e56241878cd5e148908c139b",
+        "961a036ba22d47ae9ea76a68ebfd4a6d",
+        "3fe5eb64fa31423e9900e39abc5db88f"
     ]
 }

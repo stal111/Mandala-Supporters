@@ -36,8 +36,8 @@ def remove_player(name, write=True):
     for level in patreon_levels.values():
         levelData = data.get(level)
 
-        if {"id": uuid} in levelData:
-            levelData.remove({"id": uuid})
+        if uuid in levelData:
+            levelData.remove(uuid)
 
             if write:
                 write_data()
@@ -53,7 +53,7 @@ def add_player(name, level):
     if level not in patreon_levels.keys():
         return
 
-    data.get(patreon_levels.get(level)).append({"id": uuid})
+    data.get(patreon_levels.get(level)).append(uuid)
 
     write_data()
 
