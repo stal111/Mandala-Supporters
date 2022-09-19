@@ -1,6 +1,9 @@
 {
     "silver_blacksmith": [],
-    "golden_fighter": [],
+    "golden_fighter": [
+        "37f56971efb8418f93a75afd792f64e4",
+        "655e3826ebac4d9fa1c1a5364dd4edfe"
+    ],
     "arcane_sorcerer": [],
     "nebula_club": [
         "3177f1f0d14d4f35b144cc5c6ac6379c",
